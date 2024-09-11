@@ -3,6 +3,7 @@
 ## Run
 
 ```shell
+cd src/vitest.dev/guide
 npm ci
 npm run test
 ```
